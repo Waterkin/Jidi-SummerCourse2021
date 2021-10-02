@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ec3c8b4-702e-4b58-b70d-ef4cd0fffec9" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/events.out.tfevents.1633137761.Waterking.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/loss/loss/events.out.tfevents.1633137762.Waterking.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/reward/reward/events.out.tfevents.1633137761.Waterking.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/reward/score/events.out.tfevents.1633137761.Waterking.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/trained_model/critic_16000.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/trained_model/critic_17000.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/trained_model/critic_18000.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/trained_model/critic_19000.pth" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yfGAB4nB1k7wnNUNfSFkB8JGUb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/trained_model" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16/trained_model" />
+      <recent name="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1/run16" />
+      <recent name="$PROJECT_DIR$/course_competition/rl_trainer/models/snake1v1" />
+      <recent name="$PROJECT_DIR$/course_competition/rl_trainer" />
+      <recent name="$PROJECT_DIR$/course_competition" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/course3/examples/networks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SummerCourse2021-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course2/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course2/examples/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec3c8b4-702e-4b58-b70d-ef4cd0fffec9" name="Default Changelist" comment="" />
+      <created>1632635083823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632635083823</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1633153193327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633153193327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
